@@ -93,6 +93,5 @@ public class Response {
 			e1.printStackTrace();
 		}
 		return "error";
-		
 	}
 }
